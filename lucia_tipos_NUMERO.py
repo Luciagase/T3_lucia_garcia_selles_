@@ -1,16 +1,16 @@
 # 1) Indica un ejemplo de un tipo de dato:
     # 1. Entero (int)
-a=5
-print(type(a))
+entero=5
+print("5 es un dato: ",type(entero))
 
     # 2. Flotante (float)
-b=4,2
-print(type(b))
+flotante=4,2
+print("4,2 es un dato: ",type(flotante))
 
     # 3. String (str)
-c="mesa"
-print(type(c))
+cadena="mesa"
+print("la palabra mesa es un dato: ",type(cadena))
 
     # 4. Booleano (bool)
-d=True
-print(type(d))
+boleano=True
+print("True es un dato: ",type(boleano))
