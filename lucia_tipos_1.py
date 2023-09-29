@@ -1,4 +1,4 @@
-# 1) Indica un ejemplo de un tipo de dato:
+# 1) Indica un ejemplo de un tipo de dato (se utiliza el método type()para que indique el tipo de dato)):
     # 1. Entero (int)
 entero=5
 print("5 es un dato: ",type(entero))
